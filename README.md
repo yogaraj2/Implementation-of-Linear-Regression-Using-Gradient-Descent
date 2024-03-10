@@ -10,7 +10,7 @@ To write a program to predict the profit of a city using the linear regression m
 ## Algorithm
 1. Initialize theta
 2. Calculate predictions for all
-3.  4. Calculate the error for all
+3. Calculate the error for all
 4. Calculate the gradients (derivatives)
 5. Update parameters:
             - theta = theta- learning_rate * gradient_theta
